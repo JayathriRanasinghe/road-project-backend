@@ -7,7 +7,7 @@ This Flask application loads a machine learning model and provides prediction re
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/JayathriRanasinghe/road-project-backend.git
-    cd road-project-backend
+    cd road-project-backend/src
     ```
 
 2. **Run the setup script**:
